@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kompilace", "Kompilace\Kompilace.csproj", "{A390EA60-CE1B-4BD6-9D3A-CF0F53311BCF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScriptCompilator", "Kompilace\ScriptCompilator.csproj", "{A390EA60-CE1B-4BD6-9D3A-CF0F53311BCF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
